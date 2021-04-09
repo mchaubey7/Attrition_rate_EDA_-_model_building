@@ -1,0 +1,1 @@
+This project contains EDA for early attrition rate of students from CleanWater State university. Also machine learning model to predict the students who are more likely to attire from university.
